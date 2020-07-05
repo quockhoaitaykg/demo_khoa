@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990f22ff-2ff8-4a47-8de9-658e96057bfd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1dzpwsktifvIiF0IWgmDnVfYnG5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run PhoneGap" type="PhoneGap" factoryName="PhoneGap/Cordova" nameIsGenerated="true">
+      <option name="myExecutable" value="C:\Users\khoan\AppData\Roaming\npm\phonegap.cmd" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method v="2">
+        <option name="PhonegapTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990f22ff-2ff8-4a47-8de9-658e96057bfd" name="Default Changelist" comment="" />
+      <created>1593438017059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593438017059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="175" width="1092" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593617851773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="175" width="1092" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438182169" />
+    <state x="418" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593617851773" />
+    <state x="819" y="285" key="AndroidProcessChooserDialog" timestamp="1593617496284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="285" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593617496284" />
+    <state x="698" y="282" key="EnvironmentVariablesDialog" timestamp="1593438125083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="282" key="EnvironmentVariablesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438125083" />
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1593438363904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438363904" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1593438363904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438363904" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1593438363904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438363904" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1593438363904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438363904" />
+    <state x="465" y="162" key="SettingsEditor" timestamp="1593616898036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593616898036" />
+    <state x="104" y="100" width="1720" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1593617852949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="104" y="100" width="1720" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593617852949" />
+    <state x="660" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1593616853338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593616853338" />
+    <state x="660" y="253" width="607" height="534" key="find.popup" timestamp="1593438308501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="253" width="607" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593438308501" />
+  </component>
+</project>
